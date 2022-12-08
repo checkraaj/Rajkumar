@@ -25,5 +25,5 @@ provider "azurerm" {
 
 resource "azurerm_resource_group" "rg" {
   location = "eastus"
-  name     = "HashiCorp"
+  name     = "New Project"
 } 
